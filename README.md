@@ -2,7 +2,7 @@
 
 
 # Resume Builder
-A project made in java which helps you create your resume without writing code. Fill the details in the application and get your resume ready.
+A project made in java which helps you create your resume without writing code. So Fill the details in the application and get your resume ready.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
